@@ -11,7 +11,7 @@ var trns = mailer.createTransport({
     service: "Gmail",
     auth: {
         user: "otinov2009@gmail.com",
-        pass: "4q7vj1qwerty17"
+        pass: "********"
     }
 });
 
